@@ -13,7 +13,7 @@ Seja bem-vindo! Meu nome é Andrey Santos.
 
 ## Sobre Mim
 
-🔧 Entusiasta de Tecnologia
+🔧 Aprendiz da Tecnologia
 
 💻 Atuo com Node.js, React e MySQL. Também sou curioso na área de desenvolvimento mobile, automação e Internet das Coisas (IoT).
 
