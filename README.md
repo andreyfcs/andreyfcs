@@ -19,4 +19,4 @@ Seja bem-vindo! Meu nome é Andrey Santos.
 
 🚀 Sempre em busca de novos conhecimentos e aprendizados no desenvolvimento de tecnologias.
 
-🤖 No meu tempo livre, exploro maneiras de integrar sistemas físicos e digitais com soluções inovadoras em robótica e IoT.
+🤖 No meu tempo livre, exploro maneiras de integrar sistemas físicos e digitais com soluções em robótica e IoT.
