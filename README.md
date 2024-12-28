@@ -1,7 +1,7 @@
 ### Olá, tudo bem?
 Seja bem-vindo! Meu nome é Andrey Santos.
 ##
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;"> <a href="mailto:andreyfcs@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&width=200">  <a href="https://www.linkedin.com/in/andrey-santos-632756182" target="_blank"> <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=200">  <a href="https://t.me/91983207743" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&width=200"> <img alt="Website" src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg?style=for-the-badge&width=200"> </div><br><br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;"> <a href="mailto:andreyfcs@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&width=200">  <a href="https://www.linkedin.com/in/andrey-santos-632756182" target="_blank"> <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=200">  <a href="https://t.me/+5591983207743" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&width=200"> <img alt="Website" src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg?style=for-the-badge&width=200"> </div><br><br>
 
 ## Hall
 
